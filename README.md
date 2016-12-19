@@ -1,6 +1,6 @@
 # Bot-MachineLearning
 Predicting hybrid car prices integrating Machine Learning and Chat Bots.
-The predictive analysis model was created with the [Azure Machine Learning](https://azure.microsoft.com/en-us/services/machine-learning/)] 
+The predictive analysis model was created with the [Azure Machine Learning](https://azure.microsoft.com/en-us/services/machine-learning/)
 and the chat bot was created with the [Azure Bot Service](https://azure.microsoft.com/en-us/services/bot-service/) + [Microsoft LUIS](https://www.luis.ai/).
 
 # How it works?
@@ -21,5 +21,4 @@ If you want to know more about predictive analysis with Azure ML and Azure Bot S
 * [Cloud-based Predictive Analytics with Azure Machine Learning](https://github.com/fernandoBRS/CommunityDocs-EN/blob/master/MSDN/Azure/predictive-analytics-azure-ml.md)
 * [Creating Bots with Azure Bot Service](https://github.com/fernandoBRS/CommunityDocs-EN/blob/master/MSDN/Azure/introduction-bot-service.md)
 
-Do you have any doubt or suggestion? Do you want to contribute to the development of this demo? 
-Feel free to contact me! :)
+Do you want to contribute to the development of this demo? Feel free to contact me! :)
