@@ -1,0 +1,39 @@
+C:\source\azure-ml\AzureMLBot\AzureMLBot\bin\Bot Application1.dll.config
+C:\source\azure-ml\AzureMLBot\AzureMLBot\bin\Bot Application1.dll
+C:\source\azure-ml\AzureMLBot\AzureMLBot\bin\Bot Application1.pdb
+C:\source\azure-ml\AzureMLBot\AzureMLBot\bin\Autofac.dll
+C:\source\azure-ml\AzureMLBot\AzureMLBot\bin\Chronic.dll
+C:\source\azure-ml\AzureMLBot\AzureMLBot\bin\Microsoft.Bot.Builder.dll
+C:\source\azure-ml\AzureMLBot\AzureMLBot\bin\Microsoft.Bot.Connector.dll
+C:\source\azure-ml\AzureMLBot\AzureMLBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\source\azure-ml\AzureMLBot\AzureMLBot\bin\Microsoft.Rest.ClientRuntime.dll
+C:\source\azure-ml\AzureMLBot\AzureMLBot\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\source\azure-ml\AzureMLBot\AzureMLBot\bin\Newtonsoft.Json.dll
+C:\source\azure-ml\AzureMLBot\AzureMLBot\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\source\azure-ml\AzureMLBot\AzureMLBot\bin\System.Net.Http.Formatting.dll
+C:\source\azure-ml\AzureMLBot\AzureMLBot\bin\System.Web.Http.dll
+C:\source\azure-ml\AzureMLBot\AzureMLBot\bin\System.Web.Http.WebHost.dll
+C:\source\azure-ml\AzureMLBot\AzureMLBot\bin\Autofac.xml
+C:\source\azure-ml\AzureMLBot\AzureMLBot\bin\Microsoft.Bot.Builder.xml
+C:\source\azure-ml\AzureMLBot\AzureMLBot\bin\Microsoft.Bot.Connector.xml
+C:\source\azure-ml\AzureMLBot\AzureMLBot\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+C:\source\azure-ml\AzureMLBot\AzureMLBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\source\azure-ml\AzureMLBot\AzureMLBot\bin\Microsoft.Rest.ClientRuntime.xml
+C:\source\azure-ml\AzureMLBot\AzureMLBot\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\source\azure-ml\AzureMLBot\AzureMLBot\bin\Newtonsoft.Json.xml
+C:\source\azure-ml\AzureMLBot\AzureMLBot\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\source\azure-ml\AzureMLBot\AzureMLBot\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\source\azure-ml\AzureMLBot\AzureMLBot\bin\System.Net.Http.Formatting.xml
+C:\source\azure-ml\AzureMLBot\AzureMLBot\bin\System.Web.Http.xml
+C:\source\azure-ml\AzureMLBot\AzureMLBot\bin\System.Web.Http.WebHost.xml
+C:\source\azure-ml\AzureMLBot\AzureMLBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\source\azure-ml\AzureMLBot\AzureMLBot\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\source\azure-ml\AzureMLBot\AzureMLBot\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\source\azure-ml\AzureMLBot\AzureMLBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\source\azure-ml\AzureMLBot\AzureMLBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\source\azure-ml\AzureMLBot\AzureMLBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\source\azure-ml\AzureMLBot\AzureMLBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\source\azure-ml\AzureMLBot\AzureMLBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\source\azure-ml\AzureMLBot\AzureMLBot\obj\Debug\AzureMLBot.csprojResolveAssemblyReference.cache
+C:\source\azure-ml\AzureMLBot\AzureMLBot\obj\Debug\Bot Application1.dll
+C:\source\azure-ml\AzureMLBot\AzureMLBot\obj\Debug\Bot Application1.pdb
